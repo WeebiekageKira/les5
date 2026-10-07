@@ -1,4 +1,6 @@
 # les5
-les 5, maken van een repository.
+les 5: mijn recept.
 
-Recept.
+*Hier is een plaatje van een ei.*
+
+![ei](images/egg.png)
